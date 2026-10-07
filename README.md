@@ -1,2 +1,5 @@
-# WebLogic_admin.sh
+# Shell Scripting
+
+weblogic 
+Nginx
 
